@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tomas Peruchin / Site Title"
+title                    : "Tomas Peruchin"
 title_separator          : "-"
 name                     : &name "Tomas Peruchin"
-description              : &description "Licenciado en Economia "
+description              : &description "Economist"
 url                      : https://TomasPeruchin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TomasPeruchin/TomasPeruchin.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tomas Peruchin"
-  avatar           : "4x4.jpeg"
+  avatar           : "4x4"
   bio              : "Economist"
   location         : "Buenos Aires, Argentina"
   employer         :
