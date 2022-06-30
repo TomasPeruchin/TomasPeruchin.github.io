@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Universidad Nacional de Rio Cuarto, 2021
+* M.S. in Economics, Universidad de San Andres,
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Data and Policy consultant
+  * Punto Data
+  * Duties included: Extract, collect, and organize data to find correlations and patterns that produce meaningful conclusions relevant to policy-makers.
+  * Supervisor: Victoria Orozco
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018-2021: Research Assistant
+  * Universidad Nacional de Rio Cuarto
+  * Duties included: Estimate an economic activity indicator
+  * Supervisor: Harriague, María Marcela
   
 Skills
 ======
@@ -42,11 +41,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
